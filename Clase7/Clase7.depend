@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536714564 source:/home/alumno/Descargas/Clase7/Clase7/Clase7/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1536712994 /home/alumno/Descargas/Clase7/Clase7/Clase7/utn_biblioteca.h
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+
+1536712993 source:/home/alumno/Descargas/Clase7/Clase7/Clase7/utn_biblioteca.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
